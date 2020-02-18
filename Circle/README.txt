@@ -1,0 +1,2 @@
+如果不需要权值图的输出，请将Options.txt中的Debug=1改为Debug=0
+将输入的图放到ImgInput中并重命名为src.jpg
